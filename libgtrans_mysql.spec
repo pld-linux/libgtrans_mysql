@@ -18,7 +18,6 @@ MySQL access.
 %setup -q
 
 %build
-LDFLAGS="-s"; export LDFLAGS
 %configure
 %{__make}
 
