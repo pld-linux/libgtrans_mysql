@@ -25,7 +25,7 @@ do MySQL 3.23.
 %setup -q
 
 %build
-%configure
+%configure2_13
 %{__make}
 
 %install
