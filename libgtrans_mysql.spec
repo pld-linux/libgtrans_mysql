@@ -5,8 +5,6 @@ Version:	0.2.0
 Release:	1
 License:	GPL
 Group:		Applications/Databases
-Group(de):	Applikationen/Dateibanken
-Group(pl):	Aplikacje/Bazy danych
 Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/gtranscript/%{name}-%{version}.tar.gz
 URL:		http://gtranscript.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
