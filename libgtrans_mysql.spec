@@ -11,8 +11,6 @@ Source0:	http://dl.sourceforge.net/gtranscript/%{name}-%{version}.tar.gz
 URL:		http://gtranscript.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_sysconfdir	/etc
-
 %description
 libgtrans_mysql_3_23 is a plugin for GNOME Transcript that provides
 MySQL access.
