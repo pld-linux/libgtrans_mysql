@@ -9,6 +9,8 @@ Group:		Applications/Databases
 Source0:	http://dl.sourceforge.net/gtranscript/%{name}-%{version}.tar.gz
 # Source0-md5:	47011d2dbd34251a60c94c5355f6fad3
 URL:		http://gtranscript.sourceforge.net/
+BuildRequires:	libgtrans_ifase-devel
+BuildRequires:	mysql-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
