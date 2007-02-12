@@ -1,6 +1,6 @@
 # TODO: fix %files
 Summary:	Database Access Library for MySQL
-Summary(pl):	Biblioteka dostêpu do bazy danych MySQL
+Summary(pl.UTF-8):   Biblioteka dostÄ™pu do bazy danych MySQL
 Name:		libgtrans_mysql_3_23
 Version:	0.2.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 libgtrans_mysql_3_23 is a plugin for GNOME Transcript that provides
 MySQL access.
 
-%description -l pl
-libgtrans_mysql_3_23 jest wtyczk± do GNOME Transcript dodaj±c± obs³ugê
+%description -l pl.UTF-8
+libgtrans_mysql_3_23 jest wtyczkÄ… do GNOME Transcript dodajÄ…cÄ… obsÅ‚ugÄ™
 do MySQL 3.23.
 
 %prep
