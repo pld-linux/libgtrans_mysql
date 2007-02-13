@@ -1,6 +1,6 @@
 # TODO: fix %files
 Summary:	Database Access Library for MySQL
-Summary(pl.UTF-8):   Biblioteka dostępu do bazy danych MySQL
+Summary(pl.UTF-8):	Biblioteka dostępu do bazy danych MySQL
 Name:		libgtrans_mysql_3_23
 Version:	0.2.0
 Release:	1
